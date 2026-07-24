@@ -4,7 +4,6 @@ from tkinter import ttk, messagebox, simpledialog
 from manager import StudentManager
 from calculations import SUBJECTS, MAX_MARK
 
-# color variables so i dont have to repeat hex codes everywhere
 DARK_BLUE  = "#2c3e50"
 MID_BLUE   = "#34495e"
 GREEN      = "#27ae60"
